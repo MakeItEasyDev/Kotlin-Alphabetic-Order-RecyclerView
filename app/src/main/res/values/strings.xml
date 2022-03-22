@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlphabeticRecylerView</string>
+
+    <string name="handleimage">handleImage</string>
+</resources>
